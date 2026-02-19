@@ -88,3 +88,11 @@ Mais código.
 Mais decisões reais.
 
 Este repositório é um espaço para aprender fazendo.
+Todos esses projectos vais encontrar em 
+https://www.figma.com/community/file/1350943887941860739
+do 
+vaibhav paul
+https://www.figma.com/@vaibhavpaul
+
+<img width="1923" height="807" alt="figma" src="https://github.com/user-attachments/assets/f9d0db65-0a57-4f2d-8f97-a04bdcd96141" />
+
