@@ -1,27 +1,26 @@
 🚀 50 Landing Pages Challenge (No AI)
 
-Este repositório é um desafio aberto para developers front-end:
-construir 50 landing pages completas usando frameworks modernos, com foco em boas práticas, performance e acessibilidade.
+Um desafio open-source para developers front-end construírem 50 landing pages completas usando frameworks modernos, com foco em performance, acessibilidade e boas práticas reais de mercado.
 
 ⚠️ Regra principal:
 Nenhum layout ou código gerado por IA.
-O objetivo é praticar pensamento de produto e implementação real.
+A proposta é treinar pensamento de produto e implementação manual.
 
 🎯 Objetivo
 
-Criar um conjunto de landing pages reais que sirvam para:
+Criar um conjunto de landings que funcione como laboratório prático para:
 
-melhorar portfólio com projetos práticos
+evoluir portfólio com projetos reais
 
-comparar abordagens entre frameworks
+comparar diferentes frameworks e arquiteturas
 
-praticar UI, responsividade e performance
+praticar UI, responsividade e otimização
 
-simular cenários reais de cliente
+simular cenários reais de clientes
 
-🧰 Frameworks permitidos
+🧰 Frameworks
 
-Podes contribuir usando qualquer framework front-end moderno:
+Qualquer framework moderno é bem-vindo:
 
 Vue
 
@@ -31,39 +30,42 @@ Angular
 
 Svelte
 
-ou outro equivalente
+ou equivalente
 
-📐 Design
+🎨 Design (Figma)
 
-Todos os layouts estão disponíveis no Figma.
+Os layouts base estão disponíveis na comunidade do Figma:
 
-Cada landing deve seguir fielmente o design, mas pequenas melhorias de UX são bem-vindas.
+👉 https://www.figma.com/community/file/1350943887941860739
+
+Autor: Vaibhav Paul
+👉 https://www.figma.com/@vaibhavpaul
+
+Cada landing deve seguir o design, mas melhorias de UX são permitidas.
 
 📊 Requisitos técnicos
 
-Cada landing deve:
+Cada implementação deve:
 
 ser totalmente responsiva
 
-ter HTML semântico
+usar HTML semântico
 
-seguir boas práticas de acessibilidade (a11y)
+respeitar boas práticas de acessibilidade (a11y)
 
 ter performance otimizada
 
-passar sem erros no console
+não apresentar erros no console
 
-incluir README próprio com instruções
+incluir README com instruções de execução
 
-📁 Estrutura de pastas
+📁 Estrutura do repositório
 /landings
   /landing-name
     /framework
-    README.md
+      README.md
 
-
-Exemplo:
-
+Exemplo
 /landings/saas-product/vue
 /landings/crypto-app/react
 
@@ -73,26 +75,23 @@ Faz fork do repositório
 
 Cria uma branch com o nome da landing
 
-Implementa a landing no framework escolhido
+Implementa no framework escolhido
 
 Abre um Pull Request
 
 📜 Licença
 
-MIT — podes usar os projetos livremente para estudo ou portfólio.
+MIT — livre para estudo, portfólio e uso educacional.
 
-💡 Filosofia do projeto
+💡 Filosofia
 
 Menos prompts.
 Mais código.
 Mais decisões reais.
 
-Este repositório é um espaço para aprender fazendo.
-Todos esses projectos vais encontrar em 
-https://www.figma.com/community/file/1350943887941860739
-do 
-vaibhav paul
-https://www.figma.com/@vaibhavpaul
+Aprender fazendo é o que transforma teoria em skill.
+
+🖼 Preview
 
 <img width="1923" height="807" alt="figma" src="https://github.com/user-attachments/assets/f9d0db65-0a57-4f2d-8f97-a04bdcd96141" />
 
